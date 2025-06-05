@@ -1,0 +1,10 @@
+0102345678-9;Pedro Perez;pedroperez@gmail.com
+1109876543-2;Juan Carlos Ramirez;juancarlos99@hotmail.com
+2101234567-0;Ana Lucia Moreno;analucia@outlook.com
+0012345678-3;Maria Lopez;maria.lopez123@gmail.com
+2112345678-4;Lucia Mendez;luciamendez@gmail.com
+1212345678-5;Jose Andres Perez;joseandres@ups.edu.ec
+2212345678-6;Carlos Mejia;carlosmejia@gmail.com
+1012345678-7;Luis Gomez;luisgomez@hotmail.com.ec
+0112345678-8;Mario Torres;mariotorres@outlook.com
+0212345678-9;Daniel Mejia Gonzalez;danielmg@correo.com
