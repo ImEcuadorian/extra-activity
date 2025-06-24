@@ -2,13 +2,6 @@
   "diagram": {
     "background": "#ffffff"
   },
-  "elements": {
-    "Person":    { "background": "#ffffff" },
-    "SoftwareSystem": { "background": "#ffffff" },
-    "Container": { "background": "#ffffff" },
-    "Component": { "background": "#ffffff" },
-    "DeploymentNode": { "background": "#ffffff" }
-  },
   "relationships": {
     "Default": { "color": "#000000" }
   }
